@@ -1,2 +1,1 @@
-let a = 'one'
-let d = 'i'
+let numm = 15
