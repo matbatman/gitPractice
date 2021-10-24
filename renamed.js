@@ -4,3 +4,6 @@ let d = 'i'
 let b = 'two'
 let p = []
 let c = ''
+let c = ''
+let c = ''
+let numm = 15
